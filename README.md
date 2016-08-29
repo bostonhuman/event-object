@@ -8,3 +8,10 @@ In this example, when users click on a list item, the date that the event happen
 * A new Date object is created, and its time is set to the time at which the event was clicked.
 * The time the event was clicked is then converted into a date that can be read.
 * The date that the list item was clicked is written into the list item along with the type of event that was used. Note that the timeStamp property does not display in Firefox.
+
+## How to run the app?
+* In your terminal:
+```
+git clone https://github.com/bostonhuman/event-object
+```
+* Open `event-object.html` to run the app.
